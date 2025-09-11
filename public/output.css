@@ -1260,10 +1260,6 @@ body,
     color: rgb(1 0 38 / var(--tw-text-opacity));
   }
 
-  .xs\:before\:content-brush::before{
-    --tw-content: url('./assets/brush.png');
-    content: var(--tw-content);
-  }
 }
 
 @media (min-width: 768px){
